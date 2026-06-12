@@ -1,6 +1,6 @@
 {
   "student": "madhaviciri",
-  "generatedAt": "2026-06-12T00:15:16.8358565Z",
+  "generatedAt": "2026-06-12T00:22:10.0124362Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -18,6 +18,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./frontend-advanced/verified-record.json"
+    },
+    {
+      "track": "python-core",
+      "trackTitle": "Python Core (Beginner to Advanced)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./python-core/verified-record.json"
     }
   ],
   "manualEntries": []
