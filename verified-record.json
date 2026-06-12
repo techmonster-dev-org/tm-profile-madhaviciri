@@ -1,6 +1,6 @@
 {
   "student": "madhaviciri",
-  "generatedAt": "2026-06-12T00:22:10.0124362Z",
+  "generatedAt": "2026-06-12T00:23:36.3453302Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -26,6 +26,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./python-core/verified-record.json"
+    },
+    {
+      "track": "ai-ml-python",
+      "trackTitle": "AI / ML with Python",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./ai-ml-python/verified-record.json"
     }
   ],
   "manualEntries": []
