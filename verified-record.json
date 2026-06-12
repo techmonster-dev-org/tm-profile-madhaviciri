@@ -1,0 +1,24 @@
+{
+  "student": "madhaviciri",
+  "generatedAt": "2026-06-12T00:14:07.0871075Z",
+  "verifiedBy": "techmonster-dev",
+  "tracks": [
+    {
+      "track": "frontend",
+      "trackTitle": "Frontend Engineering",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./frontend/verified-record.json"
+    },
+    {
+      "track": "frontend-advanced",
+      "trackTitle": "Frontend Advanced — Next.js",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./frontend-advanced/verified-record.json"
+    }
+  ],
+  "manualEntries": []
+}
