@@ -11,6 +11,7 @@
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 | AI / ML with Python | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./ai-ml-python/README.md) |
 | C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
+| C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
 
 ## Recent Verified Projects
 
