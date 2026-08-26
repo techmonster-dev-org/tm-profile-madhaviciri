@@ -1,6 +1,6 @@
 # madhaviciri — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-06-12
+> Certified by TechMonster · Profile updated 2026-08-26
 
 ## Tracks
 
@@ -10,6 +10,7 @@
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 | AI / ML with Python | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./ai-ml-python/README.md) |
+| C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 
 ## Recent Verified Projects
 
